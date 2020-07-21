@@ -1,2 +1,5 @@
-# wpplugin-build-production
-Removing unnecessary file, rename name plugin in dev mode, anda zipped folder with adding version
+# Build WordPress Plugin
+
+~ Removing unnecessary file
+~ Rename name plugin in dev tag
+~ Zipped folder with version
